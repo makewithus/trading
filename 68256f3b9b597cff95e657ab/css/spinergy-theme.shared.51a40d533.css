@@ -349,7 +349,7 @@ pre.w-code-block code {
   cursor: pointer;
   box-shadow: 0 0 0 1px #0000001a, 0 1px 3px #0000001a;
   visibility: visible !important;
-  opacity: 1 !important;
+  opacity: 0 !important;
   z-index: 2147483647 !important;
   color: #aaadb0 !important;
   overflow: unset !important;
@@ -371,7 +371,7 @@ pre.w-code-block code {
 .w-webflow-badge > img {
   position: unset;
   visibility: unset !important;
-  opacity: 1 !important;
+  opacity: 0 !important;
   vertical-align: middle !important;
   display: inline-block !important;
 }
